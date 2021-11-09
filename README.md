@@ -3,10 +3,10 @@
 I’m @akshit-dev101
 A fullstack software developer from india
 
-- 🌱 I’m currently working with React.js
-- 💞️ I’m looking to collaborate on any MERN Stack Project
+- 🌱 I’m currently working with React.js and Wordpress
+- 💞️ I’m looking to collaborate on any MERN Stack Projects and wordpress projects
 - 📫 You can contact me via my email- akshitkumar540@gmail.com
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using React, Nodejs and wordpress
 - 🌱 Learning design patterns in depth
 <br>
 
@@ -27,6 +27,8 @@ A fullstack software developer from india
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img align="left" alt="Next JS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
 
 
 
