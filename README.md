@@ -3,7 +3,7 @@
 I’m @akshit-dev101
 A fullstack software developer from india
 
-- 🌱 I’m currently working with React.js and Python
+- 🌱 I’m currently working with React.js and Node.js
 - 💞️ I’m looking to collaborate on any MERN Stack Projects
 - 📫 You can contact me via my email- akshitkumar540@gmail.com
 - 🔭 Working on multiple frontend and backend project using React, Nodejs and Python
